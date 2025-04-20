@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "RMS_API.Controllers.AuthController",
+    "Method": "GenerateOTP",
+    "RelativePath": "api/Auth/Generate OTP",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RMS_API.Controllers.AuthController",
+    "Method": "RestPassword",
+    "RelativePath": "api/Auth/RestPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "input",
+        "Type": "RMS_API.DTOs.AuthDTO.Request.RestPasswordDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

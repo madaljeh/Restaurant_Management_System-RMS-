@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "VhdqhUS9HhSI5zHWq3HWqvdexNKNypWjvIuxkx+qThI=",
+  "Source": "RMS-API",
+  "BasePath": "_content/RMS-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
